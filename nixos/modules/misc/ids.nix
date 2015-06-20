@@ -220,6 +220,7 @@
       grafana = 196;
       skydns = 197;
       ripple-rest = 198;
+      tvheadend = 199;
 
       # When adding a uid, make sure it doesn't match an existing gid. And don't use uids above 399!
 

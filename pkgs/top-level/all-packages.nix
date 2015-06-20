@@ -14639,6 +14639,8 @@ let
 
   tup = callPackage ../development/tools/build-managers/tup { };
 
+  tvheadend = callPackage ../servers/tvheadend { };
+
   utf8proc = callPackage ../development/libraries/utf8proc { };
 
   vice = callPackage ../misc/emulators/vice {
